@@ -16,6 +16,6 @@
  
  ##### Integrantes do grupo:
  - Hugo de Souza Alves
- - Gabriel Martins Nascimentop
+ - Gabriel Martins Nascimento
  - Gabriel Rodrigues Medina
- - Rebeca vitoria Almeida Silva
+ - Rebeca Vitoria Almeida Silva
